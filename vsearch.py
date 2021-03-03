@@ -5,4 +5,21 @@ def search4vowels(word):
     return vowels.intersection(set(word))
 
 
-search4vowels("young")
+search4vowels("hitch-hiker")
+
+search4vowels("galaxy")
+
+search4vowels("life, the universe and everything")
+
+search4vowels("sky")
+
+
+l = list()
+l
+
+d = dict()
+d
+s = set()
+s
+t = tuple()
+t
